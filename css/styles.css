@@ -95,8 +95,8 @@ body {
 .navigation__link:focus {
   color: var(--accent-color);
 }
-.navigation__link__current,
-.navigation__link__current::after {
+.navigation__link--current,
+.navigation__link--current::after {
   color: var(--accent-color);
   opacity: 1;
 }
